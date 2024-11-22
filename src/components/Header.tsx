@@ -39,7 +39,7 @@ export default function Header() {
           animate={{ scale: 1 }}
           className="text-2xl font-bold text-gradient"
         >
-          Portfolio
+          Tugusde
         </motion.div>
         
         {/* Toggle Button untuk Mobile */}
