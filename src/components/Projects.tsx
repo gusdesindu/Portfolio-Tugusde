@@ -38,7 +38,7 @@ const projects = [
   {
     title: "Desain Website Modern",
     description: "Merancang antarmuka website modern menggunakan Figma dengan fokus pada pengalaman pengguna (UX) dan tampilan visual yang menarik (UI). Proyek ini mencakup desain responsif untuk berbagai perangkat dan prototype interaktif.",
-    image: "/figma.png",
+    image: "/figmaa.png",
     tags: ["Figma", "UI/UX", "Prototype",],
     github: "https://github.com/gusdesindu/web-design",
     demo: "https://www.figma.com/file/xxxxx"
