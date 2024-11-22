@@ -38,7 +38,7 @@ export default function About() {
               {/* Photo */}
               <div className="relative w-48 h-48 mx-auto mb-6">
                 <img
-                  src="public/pp.jpg"
+                  src="/pp.jpg"
                   alt="Profile"
                   className="w-full h-full object-contain rounded-lg shadow-md"
                 />

@@ -6,7 +6,7 @@ const projects = [
   {
     title: "Toko Online UMKM",
     description: "Mengembangkan platform toko online untuk membantu UMKM memasarkan produk mereka secara digital. Dibuat menggunakan HTML, CSS, dan JavaScript.",
-    image: "public/umkm.png",
+    image: "/umkm.png",
     tags: ["HTML", "JavaScript", "CSS"],
     github: "https://github.com/gusdesindu/Project-W.B.Wahyu",
     demo: ""
@@ -14,7 +14,7 @@ const projects = [
   {
     title: "Katalog Produk Digital",
     description: "Sistem katalog digital yang memungkinkan pengguna untuk mengelola dan menampilkan produk secara terorganisir. Menggunakan PHP dan MySQL untuk manajemen data.",
-    image: "public/php.png",
+    image: "/php.png",
     tags: ["PHP", "CSS", "MySQL"],
     github: "https://github.com/gusdesindu/PHP-Katalog",
     demo: "#"
@@ -22,7 +22,7 @@ const projects = [
   {
     title: "Portal Berita Online",
     description: "Pengembangan website portal berita yang memungkinkan pengguna untuk membaca dan mencari berita terkini. Dibangun dengan PHP dan sistem manajemen konten.",
-    image: "public/tugas.png",
+    image: "/tugas.png",
     tags: ["PHP", "CSS"],
     github: "https://github.com",
     demo: "https://demo.com"
@@ -30,7 +30,7 @@ const projects = [
   {
     title: "Sistem Praktik Dokter",
     description: "Mengembangkan sistem informasi untuk praktik dokter yang mencakup manajemen pasien, jadwal konsultasi, dan riwayat medis. Dibangun menggunakan PHP dan MySQL dengan fokus pada keamanan data medis dan kemudahan penggunaan.",
-    image: "public/praktik.png",
+    image: "/praktik.png",
     tags: ["PHP", "MySQL", "Laravel",],
     github: "https://github.com/gusdesindu/sistem-praktik-dokter",
     demo: "#"
@@ -38,7 +38,7 @@ const projects = [
   {
     title: "Desain Website Modern",
     description: "Merancang antarmuka website modern menggunakan Figma dengan fokus pada pengalaman pengguna (UX) dan tampilan visual yang menarik (UI). Proyek ini mencakup desain responsif untuk berbagai perangkat dan prototype interaktif.",
-    image: "public/figma.png",
+    image: "/figma.png",
     tags: ["Figma", "UI/UX", "Prototype",],
     github: "https://github.com/gusdesindu/web-design",
     demo: "https://www.figma.com/file/xxxxx"
