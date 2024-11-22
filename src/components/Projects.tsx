@@ -8,48 +8,37 @@ const projects = [
     description: "Mengembangkan platform toko online untuk membantu UMKM memasarkan produk mereka secara digital. Dibuat menggunakan HTML, CSS, dan JavaScript.",
     image: "/umkm.png",
     tags: ["HTML", "JavaScript", "CSS"],
-    github: "https://github.com/gusdesindu/Project-W.B.Wahyu",
-    demo: ""
   },
   {
     title: "Katalog Produk Digital",
     description: "Sistem katalog digital yang memungkinkan pengguna untuk mengelola dan menampilkan produk secara terorganisir. Menggunakan PHP dan MySQL untuk manajemen data.",
     image: "/php.png",
     tags: ["PHP", "CSS", "MySQL"],
-    github: "https://github.com/gusdesindu/PHP-Katalog",
-    demo: "#"
   },
   {
     title: "Portal Berita Online",
     description: "Pengembangan website portal berita yang memungkinkan pengguna untuk membaca dan mencari berita terkini. Dibangun dengan PHP dan sistem manajemen konten.",
     image: "/tugas.png",
     tags: ["PHP", "CSS"],
-    github: "https://github.com",
-    demo: "https://demo.com"
   },
   {
     title: "Sistem Praktik Dokter",
     description: "Mengembangkan sistem informasi untuk praktik dokter yang mencakup manajemen pasien, jadwal konsultasi, dan riwayat medis. Dibangun menggunakan PHP dan MySQL dengan fokus pada keamanan data medis dan kemudahan penggunaan.",
     image: "/praktik.png",
     tags: ["PHP", "MySQL", "Laravel",],
-    github: "https://github.com/gusdesindu/sistem-praktik-dokter",
-    demo: "#"
   },
   {
     title: "Desain Website Modern",
     description: "Merancang antarmuka website modern menggunakan Figma dengan fokus pada pengalaman pengguna (UX) dan tampilan visual yang menarik (UI). Proyek ini mencakup desain responsif untuk berbagai perangkat dan prototype interaktif.",
     image: "/figmaa.png",
     tags: ["Figma", "UI/UX", "Prototype",],
-    github: "https://github.com/gusdesindu/web-design",
-    demo: "https://www.figma.com/file/xxxxx"
   },
    {
     title: "Web Portofolio",
     description: "Proyek ini adalah portofolio digital yang saya bangun untuk menampilkan karya dan keahlian saya di bidang pengembangan web. Portofolio ini mencerminkan kemampuan saya dalam merancang situs yang fungsional.",
     image: "/portofolio.png",
     tags: ["Vite", "React", "Tailwind",],
-    github: "https://github.com/gusdesindu/web-design",
-    demo: "https://www.figma.com/file/xxxxx"
+
   },
 ];
 
