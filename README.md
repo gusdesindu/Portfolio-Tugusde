@@ -1,1 +1,1 @@
-untuk hasil https://tugusde.vercel.app/#about
+untuk hasil https://tugusde.vercel.app/
