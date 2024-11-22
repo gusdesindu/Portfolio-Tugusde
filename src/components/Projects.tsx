@@ -94,7 +94,6 @@ export default function Projects() {
                     className="flex items-center gap-2 text-gray-600 hover:text-purple-600 transition-colors"
                   >
                     <Github size={20} />
-                    Lihat Kode
                   </a>
                   <a 
                     href={project.demo}
@@ -103,7 +102,7 @@ export default function Projects() {
                     className="flex items-center gap-2 text-gray-600 hover:text-purple-600 transition-colors"
                   >
                     <ExternalLink size={20} />
-                    Pratinjau
+                    
                   </a>
                 </div>
               </div>
