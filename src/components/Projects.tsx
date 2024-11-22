@@ -45,9 +45,9 @@ const projects = [
   },
    {
     title: "Web Portofolio",
-    description: "Proyek ini adalah portofolio digital yang saya bangun untuk menampilkan karya dan keahlian saya di bidang pengembangan web. Dibuat dengan desain responsif dan navigasi intuitif, portofolio ini mencerminkan kemampuan saya dalam merancang situs yang fungsional dan estetis.",
+    description: "Proyek ini adalah portofolio digital yang saya bangun untuk menampilkan karya dan keahlian saya di bidang pengembangan web. Portofolio ini mencerminkan kemampuan saya dalam merancang situs yang fungsional dan estetis.",
     image: "/portofolio.png",
-    tags: ["Vite", "Reac", "Tailwind",],
+    tags: ["Vite", "React", "Tailwind",],
     github: "https://github.com/gusdesindu/web-design",
     demo: "https://www.figma.com/file/xxxxx"
   },
