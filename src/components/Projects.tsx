@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ExternalLink, Github } from 'lucide-react';
+// import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
@@ -93,7 +93,7 @@ export default function Projects() {
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-gray-600 hover:text-purple-600 transition-colors"
                   >
-                    <Github size={20} />
+{/*                     <Github size={20} /> */}
                   </a>
                   <a 
                     href={project.demo}
@@ -101,7 +101,7 @@ export default function Projects() {
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-gray-600 hover:text-purple-600 transition-colors"
                   >
-                    <ExternalLink size={20} />
+{/*                     <ExternalLink size={20} /> */}
                     
                   </a>
                 </div>
