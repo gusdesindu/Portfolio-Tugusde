@@ -36,7 +36,7 @@ const projects = [
    {
     title: "Web Portofolio",
     description: "Proyek ini adalah portofolio digital yang saya bangun untuk menampilkan karya dan keahlian saya di bidang pengembangan web. Portofolio ini mencerminkan kemampuan saya dalam merancang situs yang fungsional.",
-    image: "/portofolio.png",
+    image: "/portfolio.png",
     tags: ["Vite", "React", "Tailwind",],
 
   },
