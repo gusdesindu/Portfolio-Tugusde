@@ -38,8 +38,13 @@ const projects = [
     description: "Proyek ini adalah portofolio digital yang saya bangun untuk menampilkan karya dan keahlian saya di bidang pengembangan web. Portofolio ini mencerminkan kemampuan saya dalam merancang situs yang fungsional.",
     image: "/portfolio.png",
     tags: ["Vite", "React", "Tailwind",],
-
   },
+  {
+    "title": "JobFinder",
+    "description": "JobFinder adalah platform pencarian kerja yang memudahkan pengguna dalam melamar pekerjaan dan melihat status aplikasi mereka. Platform ini dirancang dengan antarmuka yang modern dan responsif.",
+    "image": "/jobfinder.png",
+    "tags": ["Vite", "React", "Tailwind"]
+}
 ];
 
 export default function Projects() {
