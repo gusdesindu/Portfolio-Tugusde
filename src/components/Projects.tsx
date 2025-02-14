@@ -43,7 +43,7 @@ const projects = [
     "title": "JobFinder",
     "description": "JobFinder adalah platform pencarian kerja yang memudahkan pengguna dalam melamar pekerjaan dan melihat status aplikasi mereka. Platform ini dirancang dengan antarmuka yang modern dan responsif.",
     "image": "/JobFinder.png",
-    "tags": ["Vite", "React", "Tailwind"]
+    "tags": ["PHP", "MySQL", "Bootsrap"]
 }
 ];
 
