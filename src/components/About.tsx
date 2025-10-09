@@ -87,7 +87,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-bold mb-2 text-center">Pendidikan</h3>
               <p className="text-gray-600 text-center">
-                Siswa SMK Negeri 1 Denpasar jurusan Rekayasa Perangkat Lunak
+                Mahasiswa INSTIKI dengan jurusan Informatika
               </p>
             </div>
 
