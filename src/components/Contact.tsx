@@ -13,7 +13,7 @@ export default function Contact() {
     const formData = new FormData(form);
 
     try {
-      const response = await fetch('https://formsubmit.co/ajax/ambaragusde72@gmail.com', {
+      const response = await fetch('https://formsubmit.co/ajax/tugusde23@gmail.com', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
