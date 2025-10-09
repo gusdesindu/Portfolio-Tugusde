@@ -94,7 +94,7 @@ export default function Hero() {
               <motion.img 
                 whileHover={{ scale: 1.1 }}
                 transition={{ duration: 0.3 }}
-                src="/pp wa.jpg"
+                src="/ppwa.jpg"
                 alt="Portfolio Hero"
                 className="w-full h-full object-cover"
               />
