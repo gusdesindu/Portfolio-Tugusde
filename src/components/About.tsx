@@ -49,7 +49,7 @@ export default function About() {
               <div className="text-center">
                 <h3 className="text-2xl font-bold mb-4">I.B.Gede Ambara Sindu Negara</h3>
                 <p className="text-gray-600 mb-6">
-                  Programmer pemula yang bersemangat mengembangkan diri di bidang teknologi informasi dan pengembangan web. Setiap proses belajar menjadi langkah untuk menciptakan solusi digital yang bermanfaat.
+                  Programmer pemula yang bersemangat mengembangkan diri di bidang teknologi informasi dan pengembangan web. Setiap proses belajar menjadi langkah untuk menciptakan solusi digital yang bermanfaat
                 <div className="flex gap-4 justify-center">
                   <button 
                     onClick={scrollToContact}
