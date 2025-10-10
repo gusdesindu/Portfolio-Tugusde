@@ -45,7 +45,7 @@ export default function Hero() {
           </div>
 
           <div className="flex items-center gap-6 pt-4">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+            <a href="https://github.com/gusdesindu" target="_blank" rel="noopener noreferrer" 
               className="p-3 bg-white rounded-full shadow-md hover:shadow-lg transition-all hover:-translate-y-1">
               <Github className="text-gray-700" size={24} />
             </a>
