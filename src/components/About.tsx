@@ -49,8 +49,7 @@ export default function About() {
               <div className="text-center">
                 <h3 className="text-2xl font-bold mb-4">I.B.Gede Ambara Sindu Negara</h3>
                 <p className="text-gray-600 mb-6">
-                Saya adalah seorang programmer pemula yang sedang mendalami pengembangan aplikasi web menggunakan Laravel Filament.
-                  Sebagai pembelajar yang bersemangat, saya percaya teknologi memainkan peran penting  menyelesaikan tantangan dunia nyata. 
+                Saya adalah programmer pemula yang berkomitmen untuk terus belajar dan berkembang di dunia teknologi. Dengan semangat untuk berinovasi dan menciptakan solusi bermanfaat, saya percaya bahwa setiap proses belajar adalah langkah penting menuju pengembangan diri dan karya yang lebih baik di masa depan
                 </p>
                 <div className="flex gap-4 justify-center">
                   <button 
