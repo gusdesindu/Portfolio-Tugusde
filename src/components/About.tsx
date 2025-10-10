@@ -77,7 +77,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-bold mb-2 text-center">Pemrograman</h3>
               <p className="text-gray-600 text-center">
-                Aktif mengeksplorasi dunia pemrograman dan berkomitmen untuk terus meningkatkan kemampuan di bidang teknologi informasi
+                Mengeksplorasi dan mengembangkan diri di dunia pemrograman
               </p>
             </div>
 
