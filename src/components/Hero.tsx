@@ -20,7 +20,7 @@ export default function Hero() {
               <span className="bg-gradient-to-r from-purple-600 to-blue-600 text-transparent bg-clip-text">Tugusde</span>
             </h1>
             <h2 className="text-2xl md:text-3xl text-gray-600">
-            Beginner Programmers & Exploring Web Development
+            Junior Programmers & Exploring Web Development
             </h2>
           </div>
           
